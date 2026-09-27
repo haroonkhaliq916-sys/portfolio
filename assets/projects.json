@@ -11,7 +11,8 @@
     "approach": "Built individual employee profiles, payment histories, separate loan and repayment records, and monthly and yearly PDF reports.",
     "result": "Delivered to a local shop owner. Runs offline, with digital receipts and manual backup and recovery.",
     "url": "",
-    "visual": "pay"
+    "visual": "pay",
+    "screens": ["./media/pay-home.jpg", "./media/pay-employees.jpg", "./media/pay-employee-detail.jpg", "./media/pay-reports.jpg", "./media/pay-more.jpg"]
   },
   {
     "id": "ereal",
@@ -39,7 +40,8 @@
     "approach": "Designed quick expense entry, category organisation, monthly budget tracking and a dashboard, backed by local SQLite storage.",
     "result": "An Android app designed to work without a backend, ads or subscriptions. Includes light and dark themes.",
     "url": "",
-    "visual": "mini"
+    "visual": "mini",
+    "screens": ["./media/mini-home.jpg", "./media/mini-history.jpg", "./media/mini-settings.jpg"]
   },
   {
     "id": "fk",
